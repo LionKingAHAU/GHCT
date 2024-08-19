@@ -51,10 +51,6 @@ python main.py
 # 3. Available Data
 
 
->Publicly available datasets were analyzed in this study. This data can be found here: Publicly available datasets were analyzed in this study. NPInter2.0 database can be found https://github.com/zhanglabNKU/ BiHo-GNN/tree/main/BiHo/dataset_preprocessing/dataset,NPInter3. 0 database can be found http://bigdata.ibp.ac.cn/npinter4/download/, RPI2241 database can be found https://github.com/zhanglabNKU/ BiHo-GNN/tree/main/BiHo/dataset_preprocessing/dataset.Fullcodes of the BiHo-GNN project are available at our GitHub repository https:// github.com/zhanglabNKU/BiHo-GNN.
-
-
-
 > In the `dataset_preprocessing/dataset` dir, we provide the data of NPInter v2.0 database, NPInter v3.0_H and NPInter v3.0_M .
 
 
