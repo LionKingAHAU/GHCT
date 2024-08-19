@@ -25,11 +25,10 @@
 
   
 
-we propose a novel approach called **G**raph residual connection attention **H**olistic processing multiple **C**hannels graph **T**ransformer(**GHCT**) for efficiently predicting interactions between lncRNAs and proteins. The core of GHCT lies in utilizing holistic attention processing. Specifically, we introduce an identity feature matrix to help the model better handle nodes within the graph, allowing the model to adaptively extract information from latent feature spaces, particularly in feature learning.
+We propose a novel approach called **G**raph residual connection attention **H**olistic processing multiple **C**hannels graph **T**ransformer(**GHCT**) for efficiently predicting interactions between lncRNAs and proteins. The core of GHCT lies in utilizing holistic attention processing. Specifically, we introduce an identity feature matrix to help the model better handle nodes within the graph, allowing the model to adaptively extract information from latent feature spaces, particularly in feature learning.
 
 The figure illustrates the overall architecture of our model.
-
-  
+ 
 
 # 2. How to Use GHCT
 
@@ -46,8 +45,14 @@ main.py: this script uses GHCT model to predict lncRNA-protein interactions.
 python main.py
 
 ```
+If you want to use multithreading, you can run the following example.
+```python
 
+python main.py --use_multiprocessing True
 
+```
+
+ 
 # 3. Available Data
 
 
