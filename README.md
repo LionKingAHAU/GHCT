@@ -45,7 +45,7 @@ main.py: this script uses GHCT model to predict lncRNA-protein interactions.
 python main.py
 
 ```
-If you want to use multithreading, you can run the following example.
+If you want to use multiprocessing, you can run the following example.
 ```python
 
 python main.py --use_multiprocessing True
