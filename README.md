@@ -25,7 +25,7 @@
 
   
 The figure illustrates the overall architecture of our model.
-![image](https://github.com/LionKingAHAU/GHCT/blob/main/Framework%20of%20GHCT.png)
+![image](https://github.com/LionKingAHAU/GHCT/blob/main/The%20framework%20of%20GHCT.png)
 
 # 2. How to Use GHCT
 
